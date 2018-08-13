@@ -1,4 +1,0 @@
-## DESCRIPTIVE STATISTICS
-
-### Believe Results
-
