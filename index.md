@@ -17,13 +17,13 @@
 4. [Feature Engineering](https://www.analyticsvidhya.com/blog/2015/03/feature-engineering-variable-transformation-creation/)
 5. [Data exploration with Python](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 
-*kaggle titanic dataset*
-*Bike sharing dataset*
+- *kaggle titanic dataset*
+- *Bike sharing dataset*
 
 ##### STEP 3 - INTRO TO MACHINE LEARNING
 
-[Andrew NG Course from Coursera](https://www.coursera.org/learn/machine-learning)
-[Learning Data course by Prof. Yaser](https://work.caltech.edu/telecourse.html)
+1. [Andrew NG Course from Coursera](https://www.coursera.org/learn/machine-learning)
+2. [Learning Data course by Prof. Yaser](https://work.caltech.edu/telecourse.html)
 
 **Below are the other links to revise and follow up learned things**
 
